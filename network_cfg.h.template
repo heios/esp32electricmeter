@@ -1,0 +1,5 @@
+namespace NetworkCfg {
+  const char wifi_ssid[] = "${network_cfg_wifi_ssid}";
+  const char wifi_password[] = "${network_cfg_wifi_password}";
+  const char self_hostname[] = "${network_cfg_self_hostname}";
+}
